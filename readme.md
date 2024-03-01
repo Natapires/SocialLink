@@ -19,7 +19,7 @@
 <p>
 <img alt="Linktree Light" src="preview1.JPG" width="100%">
 </p>
-[🔗 Clique aqui para acessar](https://natapires.github.io/paginaapple/)
+[🔗 Clique aqui para acessar](https://linktree-natapires.vercel.app/)
 
 ## 🛠 Tecnologias
 
